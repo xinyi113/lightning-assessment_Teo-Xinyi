@@ -6,10 +6,6 @@
 package digi.x;
 
 import java.util.Arrays;
-import java.util.Scanner;
-
-
-
 /**
  *
  * @author Teo Xinyi
